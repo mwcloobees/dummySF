@@ -144,6 +144,7 @@
     </relatedLists>
     <relatedObjects>AccountId</relatedObjects>
     <relatedObjects>ContactId</relatedObjects>
+    <relatedObjects>Address</relatedObjects>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>

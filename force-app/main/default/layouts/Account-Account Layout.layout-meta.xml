@@ -9,7 +9,7 @@
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>OwnerId</field>
+                <field>OwnerId2_c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
@@ -48,6 +48,10 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>AccountTest</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>Industry</field>
             </layoutItems>
         </layoutColumns>
@@ -55,10 +59,6 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>NumberOfEmployees</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>AnnualRevenue</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsLeftToRight</style>
