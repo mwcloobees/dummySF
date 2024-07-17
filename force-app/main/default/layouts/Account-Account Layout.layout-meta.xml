@@ -13,7 +13,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Name</field>
+                <field>Pau</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -52,7 +52,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Industry</field>
+                <field>Cloobees</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
