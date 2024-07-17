@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
-<<<<<<< HEAD
     <description>The default utility bar for the Contact Center application.</description>
-=======
-    <description>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo excepturi officiis necessitatibus voluptatibus eveniet itaque debitis unde cumque modi animi iusto soluta, pariatur laborum, corporis veritatis sint vero? Eligendi, atque.</description>
->>>>>>> origin/main
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
