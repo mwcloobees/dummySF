@@ -5,7 +5,7 @@
         <customLabel>false</customLabel>
         <detailHeading>true</detailHeading>
         <editHeading>true</editHeading>
-        <label>Account Information</label>
+        <label>Account Info</label>
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -40,7 +40,7 @@
         <customLabel>false</customLabel>
         <detailHeading>true</detailHeading>
         <editHeading>true</editHeading>
-        <label>Additional Information</label>
+        <label>Additional Info</label>
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
